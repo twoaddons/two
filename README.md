@@ -6,7 +6,7 @@ Ir para o Kodi gestor de ficheiros.
 
 Clicar em "Adicionar fonte"
 
-O endereço para a fonte é https://two-addons.githuh.io (Dar o nome de "two addons").
+O endereço para a fonte é https://two-addons.github.io (Dar o nome de "two addons").
 
 Ir para "Addons"
 
